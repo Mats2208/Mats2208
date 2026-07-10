@@ -1,41 +1,44 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:4F46E5,100:06B6D4&text=Mateo%20Soto&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=AI-native%20developer%20tools%20%C2%B7%20MCP%20%C2%B7%20agent%20orchestration&descAlignY=58&descSize=17&animation=fadeIn" alt="Mateo Soto" />
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=%24+whoami;Mateo+Soto+%E2%80%94+20+y%2Fo+software+engineer+%40+Santa+Cruz%2C+Bolivia;I+build+tools+where+the+LLM+is+one+part+of+a+bigger+system;MCP+servers+%C2%B7+agent+orchestration+%C2%B7+systems+design;Not+just+prompts+%E2%80%94+I+care+how+it+works+underneath" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=B3DED2&center=true&vCenter=true&width=880&height=190&lines=%24+whoami;Mateo+Soto+%E2%80%94+Systems+Engineering+student+%40+UPSA;Full-Stack+%26+AI-systems+developer+%C2%B7+Santa+Cruz%2C+Bolivia;I+build+tools+where+the+LLM+is+one+part+of+a+bigger+system;MCP+%C2%B7+agent+orchestration+%C2%B7+systems+design" alt="whoami" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/20_y%2Fo-Self--taught_builder-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Santa_Cruz-Bolivia-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-AI--native_dev_tools-38BDF8?style=flat-square" />
-<img src="https://img.shields.io/github/stars/Mats2208?label=Stars&style=flat-square&color=EAB308&logo=github" />
+<img src="https://img.shields.io/badge/Ingenier%C3%ADa_en_Sistemas-UPSA-375A56?style=flat-square&labelColor=1F2228" />
+<img src="https://img.shields.io/badge/Santa_Cruz-Bolivia_%F0%9F%87%A7%F0%9F%87%B4-375A56?style=flat-square&labelColor=1F2228" />
+<img src="https://img.shields.io/badge/Full--Stack_%2B_AI_systems-B3DED2?style=flat-square&labelColor=1F2228&color=375A56" />
+<img src="https://img.shields.io/github/stars/Mats2208?label=Stars&style=flat-square&labelColor=1F2228&color=B3DED2&logo=github" />
 
 <br/><br/>
 
-<a href="https://matsoto.dev"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
-<a href="mailto:mateoandres2208@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Mats2208"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
+<a href="https://matsoto.dev"><img src="https://img.shields.io/badge/Portfolio-1F2228?style=for-the-badge&logo=vercel&logoColor=B3DED2" /></a>
+<a href="https://www.linkedin.com/in/mateo-andres-soto-gareca-85301b323"><img src="https://img.shields.io/badge/LinkedIn-1F2228?style=for-the-badge&logo=linkedin&logoColor=B3DED2" /></a>
+<a href="mailto:mateoandres2208@gmail.com"><img src="https://img.shields.io/badge/Email-1F2228?style=for-the-badge&logo=gmail&logoColor=B3DED2" /></a>
+<a href="https://github.com/Mats2208"><img src="https://img.shields.io/badge/GitHub-1F2228?style=for-the-badge&logo=github&logoColor=B3DED2" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Mats2208&label=Profile+views&color=4F46E5&style=flat-square" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mats2208&label=Profile+views&color=375A56&style=flat-square" />
 
 </div>
+
+> *"I don't just prompt the model — I engineer the system around it."*
 
 ---
 
 ## `>` Who I am
 
-I'm **Mateo**, a self-taught developer from Santa Cruz, Bolivia. I build software where an **LLM is one component inside a larger system** — agent orchestrators, **MCP** servers, things with real process boundaries and git-worktree isolation.
+I'm **Mateo Soto**, a **Systems Engineering student** (*Ingeniería en Sistemas*) at **UPSA — Universidad Privada de Santa Cruz de la Sierra**, in Santa Cruz, Bolivia 🇧🇴.
 
-The part I actually enjoy is the **systems design**, not the prompt. I ship open source that people use — my MCP server for Cisco Packet Tracer crossed **95 ⭐** — and I go deep enough to understand *why* it works, not just that it does.
+I build software where an **LLM is one component inside a larger system** — agent orchestrators, **MCP** servers, things with real process boundaries and git-worktree isolation. The part I enjoy is the **systems design**, not the prompt. I ship open source that people use — my MCP server for Cisco Packet Tracer crossed **95 ⭐** — and I go deep enough to understand *why* it works, not just that it does.
 
 ```yaml
-profile:
-  role:     Software Engineer · AI systems
-  age:      20
-  based:    Santa Cruz, Bolivia
+mateo:
+  role:     Full-Stack & AI-systems developer
+  study:    Ingeniería en Sistemas @ UPSA
+  based:    Santa Cruz de la Sierra, Bolivia
   building: agent orchestration · MCP tooling · developer tools
   mindset:  "understand the machine, then automate it"
   open_to:  internships · junior/mid roles · AI-systems work
@@ -43,14 +46,12 @@ profile:
 
 ---
 
-## `>` What I work on
+## `>` Focus areas
 
-| Area | What that means |
-|---|---|
-| 🤖 **Agent orchestration** | Multi-agent systems, brain/router → worker CLIs, git-worktree isolation, A2A |
-| 🔌 **MCP tooling** | Model Context Protocol servers that let LLMs drive real software |
-| 🧩 **Full-stack products** | End-to-end apps — FastAPI/Flask backends, React frontends, SQL |
-| 🖥️ **Native & systems** | Desktop apps (Tauri, Swift/macOS), CLIs, low-level tinkering |
+- 🤖 **AI agent orchestration** — multi-agent systems, brain/router → worker CLIs, git-worktree isolation, A2A
+- 🔌 **MCP tooling** — Model Context Protocol servers that let LLMs drive real software
+- 🧩 **Full-stack product engineering** — Astro/React frontends, FastAPI · Flask · .NET backends
+- 🖥️ **Native & systems** — Tauri desktop apps, SwiftUI (macOS), CLIs and low-level tinkering
 
 ---
 
@@ -69,23 +70,43 @@ Native **macOS** app to download YouTube videos up to 4K with automatic stream m
 
 ---
 
-## `>` Stack
-
-<div align="center">
+## `>` Tech stack
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,swift,cs,cpp,dart,bash" />
+![Python](https://img.shields.io/badge/Python-1F2228?style=for-the-badge&logo=python&logoColor=B3DED2)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2228?style=for-the-badge&logo=typescript&logoColor=B3DED2)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2228?style=for-the-badge&logo=javascript&logoColor=B3DED2)
+![C#](https://img.shields.io/badge/C%23-1F2228?style=for-the-badge&logo=dotnet&logoColor=B3DED2)
+![Swift](https://img.shields.io/badge/Swift-1F2228?style=for-the-badge&logo=swift&logoColor=B3DED2)
+![C++](https://img.shields.io/badge/C++-1F2228?style=for-the-badge&logo=cplusplus&logoColor=B3DED2)
 
-**AI · Web · Native**
+**Frameworks & Runtime**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi,flask,nodejs,tauri,rust,tailwind" />
+![React](https://img.shields.io/badge/React-1F2228?style=for-the-badge&logo=react&logoColor=B3DED2)
+![Astro](https://img.shields.io/badge/Astro-1F2228?style=for-the-badge&logo=astro&logoColor=B3DED2)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2228?style=for-the-badge&logo=fastapi&logoColor=B3DED2)
+![Flask](https://img.shields.io/badge/Flask-1F2228?style=for-the-badge&logo=flask&logoColor=B3DED2)
+![.NET](https://img.shields.io/badge/.NET-1F2228?style=for-the-badge&logo=dotnet&logoColor=B3DED2)
+![Tauri](https://img.shields.io/badge/Tauri-1F2228?style=for-the-badge&logo=tauri&logoColor=B3DED2)
+![Node.js](https://img.shields.io/badge/Node.js-1F2228?style=for-the-badge&logo=nodedotjs&logoColor=B3DED2)
 
-**Data · Tools**
+**Data & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,docker,linux,vscode,figma" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2228?style=for-the-badge&logo=postgresql&logoColor=B3DED2)
+![SQLite](https://img.shields.io/badge/SQLite-1F2228?style=for-the-badge&logo=sqlite&logoColor=B3DED2)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1F2228?style=for-the-badge&logo=microsoftsqlserver&logoColor=B3DED2)
+![Git](https://img.shields.io/badge/Git-1F2228?style=for-the-badge&logo=git&logoColor=B3DED2)
+![Docker](https://img.shields.io/badge/Docker-1F2228?style=for-the-badge&logo=docker&logoColor=B3DED2)
+![Linux](https://img.shields.io/badge/Linux-1F2228?style=for-the-badge&logo=linux&logoColor=B3DED2)
 
-</div>
+---
+
+## `>` Education
+
+| Institution | Program |
+|---|---|
+| **UPSA** — Universidad Privada de Santa Cruz de la Sierra | Ingeniería en Sistemas *(Systems Engineering)* |
 
 ---
 
@@ -93,16 +114,16 @@ Native **macOS** app to download YouTube videos up to 4K with automatic stream m
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mats2208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Mats2208&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mats2208&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1F2228&title_color=B3DED2&icon_color=B3DED2&text_color=9DB4AE" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Mats2208&hide_border=true&background=1F2228&stroke=375A56&ring=B3DED2&fire=B3DED2&currStreakLabel=B3DED2&sideLabels=9DB4AE&dates=9DB4AE&currStreakNum=B3DED2&sideNums=B3DED2" />
 
 <br/>
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mats2208&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mats2208&layout=compact&hide_border=true&langs_count=8&bg_color=1F2228&title_color=B3DED2&text_color=9DB4AE" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mats2208&bg_color=0F172A&color=38BDF8&line=4F46E5&point=06B6D4&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mats2208&bg_color=1F2228&color=B3DED2&line=375A56&point=B3DED2&area=true&hide_border=true" />
 
 </div>
 
@@ -110,8 +131,8 @@ Native **macOS** app to download YouTube videos up to 4K with automatic stream m
 
 <div align="center">
 
-**Open to opportunities** — reach me at [matsoto.dev](https://matsoto.dev) or **mateoandres2208@gmail.com**
+**Open to opportunities** — [matsoto.dev](https://matsoto.dev) · [LinkedIn](https://www.linkedin.com/in/mateo-andres-soto-gareca-85301b323) · **mateoandres2208@gmail.com**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:4F46E5,100:0F172A" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:B3DED2,50:375A56,100:1F2228" />
 
 </div>
