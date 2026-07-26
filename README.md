@@ -32,7 +32,7 @@
 
 I'm **Mateo Soto**, a **Systems Engineering student** (*Ingeniería en Sistemas*) at **UPSA — Universidad Privada de Santa Cruz de la Sierra**, in Santa Cruz, Bolivia 🇧🇴.
 
-I build software where an **LLM is one component inside a larger system** — agent orchestrators, **MCP** servers, things with real process boundaries and git-worktree isolation. The part I enjoy is the **systems design**, not the prompt. I ship open source that people use — my MCP server for Cisco Packet Tracer crossed **95 ⭐** — and I go deep enough to understand *why* it works, not just that it does.
+I build software where an **LLM is one component inside a larger system** — agent orchestrators, **MCP** servers, things with real process boundaries and git-worktree isolation. The part I enjoy is the **systems design**, not the prompt. I ship open source that people use — my MCP server for Cisco Packet Tracer crossed **110 ⭐** — and I go deep enough to understand *why* it works, not just that it does.
 
 ```yaml
 mateo:
@@ -57,16 +57,16 @@ mateo:
 
 ## `>` Featured
 
-### 🛰️ [MCP-Packet-Tracer](https://github.com/Mats2208/MCP-Packet-Tracer) &nbsp; `⭐ 95` &nbsp;·&nbsp; [live](https://www.mcpnetwork.top/)
-AI-powered Cisco Packet Tracer automation over **MCP**. Describe a network in plain language → it generates, validates and deploys full topologies (OSPF, EIGRP, RIP, DHCP). &nbsp; `Python · MCP`
+| Project | What it is | Stack |
+|---|---|---|
+| **[MCP-Packet-Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)** `⭐110` · [live](https://www.mcpnetwork.top/) | Cisco Packet Tracer driven over **MCP** — describe a network in plain language, it generates, validates and deploys the topology (OSPF, EIGRP, RIP, DHCP) | `Python · MCP` |
+| **[hyprdesk](https://github.com/HyprDesk/hyprdesk)** · [live](https://hyprdesk.github.io/hyprdesk/) | A router agent leads a team of AI coding workers over a local **A2A/MCP tunnel**, each on an isolated git worktree, with merge-back | `Rust · Tauri v2 · React` |
+| **[ScanToSketchUp](https://github.com/Mats2208/ScanToSketchUp)** | iPhone LiDAR scan → real editable geometry in SketchUp. Open `.scanpkg` format, self-hostable backend | `Swift · Python` |
+| **[Audio-Transcriber-STT](https://github.com/Mats2208/Audio-Transcriber-STT)** | Local-first desktop app: audio/video/YouTube → transcript, AI notes & Q&A on your own GPU | `Python · faster-whisper` |
+| **[FESTCINE](https://github.com/Mats2208/FESTCINE)** | Cinema-festival platform where the **business logic lives in the database** — stored procedures, triggers, transactions | `SQL Server · FastAPI · React` |
+| **[DownloadYoutubeTool](https://github.com/Mats2208/DownloadYoutubeTool)** | Native macOS app, 4K downloads with automatic stream merge | `Swift · SwiftUI` |
 
-### 🧠 [hyprdesk](https://github.com/Mats2208/hyprdesk)
-Orchestrate a team of AI coding agents on your desktop — a router-leader delegates to workers over a local **MCP tunnel (A2A)**, with git-worktree isolation and merge-back, in a **Tauri v2** IDE surface. &nbsp; `TypeScript · Tauri`
-
-### 🎥 [YouTube Downloader](https://github.com/Mats2208/DownloadYoutubeTool)
-Native **macOS** app to download YouTube videos up to 4K with automatic stream merge. &nbsp; `Swift · SwiftUI`
-
-<sub>↓ More projects live in my repos — they earn their own stars.</sub>
+<sub>↓ More in my repos — [ao](https://github.com/Mats2208/ao) (agent orchestrator), [IFTP](https://github.com/Mats2208/IFTP) (IoT soil monitoring), [DeriBot](https://github.com/Mats2208/DERIBOT) (symbolic calculus tutor), [EDOLab](https://github.com/Mats2208/EDO-FRONTEND), [TTOCA](https://github.com/Mats2208/TTOCA-BACKEND).</sub>
 
 ---
 
@@ -79,6 +79,7 @@ Native **macOS** app to download YouTube videos up to 4K with automatic stream m
 ![JavaScript](https://img.shields.io/badge/JavaScript-1F2228?style=for-the-badge&logo=javascript&logoColor=B3DED2)
 ![C#](https://img.shields.io/badge/C%23-1F2228?style=for-the-badge&logo=dotnet&logoColor=B3DED2)
 ![Swift](https://img.shields.io/badge/Swift-1F2228?style=for-the-badge&logo=swift&logoColor=B3DED2)
+![Rust](https://img.shields.io/badge/Rust-1F2228?style=for-the-badge&logo=rust&logoColor=B3DED2)
 ![C++](https://img.shields.io/badge/C++-1F2228?style=for-the-badge&logo=cplusplus&logoColor=B3DED2)
 
 **Frameworks & Runtime**
