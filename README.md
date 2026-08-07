@@ -59,7 +59,8 @@ mateo:
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[MCP-Packet-Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)** `⭐110` · [live](https://www.mcpnetwork.top/) | Cisco Packet Tracer driven over **MCP** — describe a network in plain language, it generates, validates and deploys the topology (OSPF, EIGRP, RIP, DHCP) | `Python · MCP` |
+| **[MCP-Packet-Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)** `⭐116` · [live](https://www.mcpnetwork.top/) | Cisco Packet Tracer driven over **MCP** — describe a network in plain language, it generates, validates and deploys the topology (OSPF, EIGRP, RIP, DHCP). 61 tools, 74 device models | `Python · MCP` |
+| **[packetsmith](https://github.com/Mats2208/packetsmith)** · [npm](https://www.npmjs.com/package/packetsmith) | The terminal client for the server above — split-screen TUI where the topology draws itself beside the conversation, derived from real tool results so it cannot show a device the model only *claims* it created | `TypeScript · Bun · OpenTUI` |
 | **[hyprdesk](https://github.com/HyprDesk/hyprdesk)** · [live](https://hyprdesk.github.io/hyprdesk/) | A router agent leads a team of AI coding workers over a local **A2A/MCP tunnel**, each on an isolated git worktree, with merge-back | `Rust · Tauri v2 · React` |
 | **[ScanToSketchUp](https://github.com/Mats2208/ScanToSketchUp)** | iPhone LiDAR scan → real editable geometry in SketchUp. Open `.scanpkg` format, self-hostable backend | `Swift · Python` |
 | **[Audio-Transcriber-STT](https://github.com/Mats2208/Audio-Transcriber-STT)** | Local-first desktop app: audio/video/YouTube → transcript, AI notes & Q&A on your own GPU | `Python · faster-whisper` |
