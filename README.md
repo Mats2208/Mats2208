@@ -1,26 +1,26 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=B3DED2&center=true&vCenter=true&width=880&height=190&lines=%24+whoami;Mateo+Soto+%E2%80%94+Systems+Engineering+student+%40+UPSA;Full-Stack+%26+AI-systems+developer+%C2%B7+Santa+Cruz%2C+Bolivia;I+build+tools+where+the+LLM+is+one+part+of+a+bigger+system;MCP+%C2%B7+agent+orchestration+%C2%B7+systems+design" alt="whoami" />
+<a href="https://matsoto.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=B3DED2&center=true&vCenter=true&width=880&height=80&lines=%24+whoami;Mateo+Soto+%E2%80%94+Systems+Engineering+student+%40+UPSA;Full-Stack+%26+AI-systems+developer+%C2%B7+Santa+Cruz%2C+Bolivia;I+build+tools+where+the+LLM+is+one+part+of+a+bigger+system;MCP+%C2%B7+agent+orchestration+%C2%B7+systems+design" alt="Mateo Soto - Systems Engineering student at UPSA, Full-Stack and AI-systems developer" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Ingenier%C3%ADa_en_Sistemas-UPSA-375A56?style=flat-square&labelColor=1F2228" />
-<img src="https://img.shields.io/badge/Santa_Cruz-Bolivia_%F0%9F%87%A7%F0%9F%87%B4-375A56?style=flat-square&labelColor=1F2228" />
-<img src="https://img.shields.io/badge/Full--Stack_%2B_AI_systems-B3DED2?style=flat-square&labelColor=1F2228&color=375A56" />
-<img src="https://img.shields.io/github/stars/Mats2208?label=Stars&style=flat-square&labelColor=1F2228&color=B3DED2&logo=github" />
+<img src="https://img.shields.io/badge/Ingenier%C3%ADa_en_Sistemas-UPSA-375A56?style=flat-square&labelColor=1F2228" alt="Ingenieria en Sistemas at UPSA" />
+<img src="https://img.shields.io/badge/Santa_Cruz-Bolivia_%F0%9F%87%A7%F0%9F%87%B4-375A56?style=flat-square&labelColor=1F2228" alt="Santa Cruz, Bolivia" />
+<img src="https://img.shields.io/badge/Full--Stack_%2B_AI_systems-B3DED2?style=flat-square&labelColor=1F2228&color=375A56" alt="Full-Stack and AI systems" />
+<img src="https://img.shields.io/github/stars/Mats2208?label=Stars&style=flat-square&labelColor=1F2228&color=B3DED2&logo=github" alt="Total stars across my repositories" />
 
 <br/><br/>
 
-<a href="https://matsoto.dev"><img src="https://img.shields.io/badge/Portfolio-1F2228?style=for-the-badge&logo=vercel&logoColor=B3DED2" /></a>
-<a href="https://www.linkedin.com/in/mateo-andres-soto-gareca-85301b323"><img src="https://img.shields.io/badge/LinkedIn-1F2228?style=for-the-badge&logo=linkedin&logoColor=B3DED2" /></a>
-<a href="mailto:mateoandres2208@gmail.com"><img src="https://img.shields.io/badge/Email-1F2228?style=for-the-badge&logo=gmail&logoColor=B3DED2" /></a>
-<a href="https://github.com/Mats2208"><img src="https://img.shields.io/badge/GitHub-1F2228?style=for-the-badge&logo=github&logoColor=B3DED2" /></a>
+<a href="https://matsoto.dev"><img src="https://img.shields.io/badge/Portfolio-1F2228?style=for-the-badge&logo=vercel&logoColor=B3DED2" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mateo-andres-soto-gareca-85301b323"><img src="https://img.shields.io/badge/LinkedIn-1F2228?style=for-the-badge&logo=linkedin&logoColor=B3DED2" alt="LinkedIn" /></a>
+<a href="mailto:mateoandres2208@gmail.com"><img src="https://img.shields.io/badge/Email-1F2228?style=for-the-badge&logo=gmail&logoColor=B3DED2" alt="Email" /></a>
+<a href="https://github.com/Mats2208"><img src="https://img.shields.io/badge/GitHub-1F2228?style=for-the-badge&logo=github&logoColor=B3DED2" alt="GitHub" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mats2208&label=Profile+views&color=375A56&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Mats2208&label=Profile+views&color=375A56&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 I'm **Mateo Soto**, a **Systems Engineering student** (*Ingeniería en Sistemas*) at **UPSA — Universidad Privada de Santa Cruz de la Sierra**, in Santa Cruz, Bolivia 🇧🇴.
 
-I build software where an **LLM is one component inside a larger system** — agent orchestrators, **MCP** servers, things with real process boundaries and git-worktree isolation. The part I enjoy is the **systems design**, not the prompt. I ship open source that people use — my MCP server for Cisco Packet Tracer crossed **110 ⭐** — and I go deep enough to understand *why* it works, not just that it does.
+I build software where an **LLM is one component inside a larger system** — agent orchestrators, **MCP** servers, things with real process boundaries and git-worktree isolation. The part I enjoy is the **systems design**, not the prompt. I ship open source that people use — my MCP server for Cisco Packet Tracer is past **130 ⭐** — and I go deep enough to understand *why* it works, not just that it does.
 
 ```yaml
 mateo:
@@ -59,7 +59,7 @@ mateo:
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[MCP-Packet-Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)** `⭐116` · [live](https://www.mcpnetwork.top/) | Cisco Packet Tracer driven over **MCP** — describe a network in plain language, it generates, validates and deploys the topology (OSPF, EIGRP, RIP, DHCP). 61 tools, 74 device models | `Python · MCP` |
+| **[MCP-Packet-Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)** [![stars](https://img.shields.io/github/stars/Mats2208/MCP-Packet-Tracer?style=flat-square&label=&logo=github&logoColor=B3DED2&labelColor=1F2228&color=375A56)](https://github.com/Mats2208/MCP-Packet-Tracer/stargazers) · [live](https://www.mcpnetwork.top/) | Cisco Packet Tracer driven over **MCP** — describe a network in plain language, it generates, validates and deploys the topology (OSPF, EIGRP, RIP, DHCP). 61 tools, 74 device models | `Python · MCP` |
 | **[packetsmith](https://github.com/Mats2208/packetsmith)** · [npm](https://www.npmjs.com/package/packetsmith) | The terminal client for the server above — split-screen TUI where the topology draws itself beside the conversation, derived from real tool results so it cannot show a device the model only *claims* it created | `TypeScript · Bun · OpenTUI` |
 | **[hyprdesk](https://github.com/HyprDesk/hyprdesk)** · [live](https://hyprdesk.github.io/hyprdesk/) | A router agent leads a team of AI coding workers over a local **A2A/MCP tunnel**, each on an isolated git worktree, with merge-back | `Rust · Tauri v2 · React` |
 | **[ScanToSketchUp](https://github.com/Mats2208/ScanToSketchUp)** | iPhone LiDAR scan → real editable geometry in SketchUp. Open `.scanpkg` format, self-hostable backend | `Swift · Python` |
@@ -116,16 +116,12 @@ mateo:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mats2208&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1F2228&title_color=B3DED2&icon_color=B3DED2&text_color=9DB4AE" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Mats2208&hide_border=true&background=1F2228&stroke=375A56&ring=B3DED2&fire=B3DED2&currStreakLabel=B3DED2&sideLabels=9DB4AE&dates=9DB4AE&currStreakNum=B3DED2&sideNums=B3DED2" />
-
-<br/>
-
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mats2208&layout=compact&hide_border=true&langs_count=8&bg_color=1F2228&title_color=B3DED2&text_color=9DB4AE" />
+<img width="49%" alt="Commits, stars, pull requests and issues" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mats2208&theme=react" />
+<img width="49%" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mats2208&theme=react" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mats2208&bg_color=1F2228&color=B3DED2&line=375A56&point=B3DED2&area=true&hide_border=true" />
+<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mats2208&bg_color=1F2228&color=B3DED2&line=375A56&point=B3DED2&area=true&hide_border=true" />
 
 </div>
 
@@ -135,6 +131,6 @@ mateo:
 
 **Open to opportunities** — [matsoto.dev](https://matsoto.dev) · [LinkedIn](https://www.linkedin.com/in/mateo-andres-soto-gareca-85301b323) · **mateoandres2208@gmail.com**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:B3DED2,50:375A56,100:1F2228" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:B3DED2,50:375A56,100:1F2228" />
 
 </div>
