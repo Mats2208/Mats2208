@@ -32,7 +32,7 @@
 
 I'm **Mateo Soto**, a **Systems Engineering student** (*Ingeniería en Sistemas*) at **UPSA — Universidad Privada de Santa Cruz de la Sierra**, in Santa Cruz, Bolivia 🇧🇴.
 
-I build software where an **LLM is one component inside a larger system** — agent orchestrators, **MCP** servers, things with real process boundaries and git-worktree isolation. The part I enjoy is the **systems design**, not the prompt. I ship open source that people use — my MCP server for Cisco Packet Tracer is past **130 ⭐** — and I go deep enough to understand *why* it works, not just that it does.
+I build software where an **LLM is one component inside a larger system** — agent orchestrators, **MCP** servers, things with real process boundaries and git-worktree isolation. The part I enjoy is the **systems design**, not the prompt. I ship open source that people use — my MCP server for Cisco Packet Tracer is past **240 ⭐**, and network engineers have recorded YouTube walkthroughs of it — and I go deep enough to understand *why* it works, not just that it does.
 
 ```yaml
 mateo:
