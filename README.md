@@ -1,136 +1,49 @@
-<div align="center">
-
 <a href="https://matsoto.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=B3DED2&center=true&vCenter=true&width=880&height=80&lines=%24+whoami;Mateo+Soto+%E2%80%94+Systems+Engineering+student+%40+UPSA;Full-Stack+%26+AI-systems+developer+%C2%B7+Santa+Cruz%2C+Bolivia;I+build+tools+where+the+LLM+is+one+part+of+a+bigger+system;MCP+%C2%B7+agent+orchestration+%C2%B7+systems+design" alt="Mateo Soto - Systems Engineering student at UPSA, Full-Stack and AI-systems developer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.png" />
+    <img src="assets/header-dark.png" alt="MATS. Software developer in Santa Cruz, Bolivia. Dólar Blue Bolivia: number one on Google for the dollar in Bolivia, 1.8 million page views a month. MCP Packet Tracer: 240+ GitHub stars, network engineers made videos about it." width="100%" />
+  </picture>
 </a>
 
-<br/>
+I'm **Mateo Soto Gareca**, a software developer in Santa Cruz, Bolivia, studying Systems Engineering at UPSA.
 
-<img src="https://img.shields.io/badge/Ingenier%C3%ADa_en_Sistemas-UPSA-375A56?style=flat-square&labelColor=1F2228" alt="Ingenieria en Sistemas at UPSA" />
-<img src="https://img.shields.io/badge/Santa_Cruz-Bolivia_%F0%9F%87%A7%F0%9F%87%B4-375A56?style=flat-square&labelColor=1F2228" alt="Santa Cruz, Bolivia" />
-<img src="https://img.shields.io/badge/Full--Stack_%2B_AI_systems-B3DED2?style=flat-square&labelColor=1F2228&color=375A56" alt="Full-Stack and AI systems" />
-<img src="https://img.shields.io/github/stars/Mats2208?label=Stars&style=flat-square&labelColor=1F2228&color=B3DED2&logo=github" alt="Total stars across my repositories" />
+I build websites, APIs and tools, and then I keep running them: I deploy them, fix them when they break and write down what happened. AI is part of how I work: agents that code alongside me and, when the problem calls for it, part of the product.
 
-<br/><br/>
-
-<a href="https://matsoto.dev"><img src="https://img.shields.io/badge/Portfolio-1F2228?style=for-the-badge&logo=vercel&logoColor=B3DED2" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mateo-andres-soto-gareca-85301b323"><img src="https://img.shields.io/badge/LinkedIn-1F2228?style=for-the-badge&logo=linkedin&logoColor=B3DED2" alt="LinkedIn" /></a>
-<a href="mailto:mateoandres2208@gmail.com"><img src="https://img.shields.io/badge/Email-1F2228?style=for-the-badge&logo=gmail&logoColor=B3DED2" alt="Email" /></a>
-<a href="https://github.com/Mats2208"><img src="https://img.shields.io/badge/GitHub-1F2228?style=for-the-badge&logo=github&logoColor=B3DED2" alt="GitHub" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mats2208&label=Profile+views&color=375A56&style=flat-square" alt="Profile views" />
-
-</div>
-
-> *"I don't just prompt the model — I engineer the system around it."*
+**Open to internships and junior roles.** [matsoto.dev](https://matsoto.dev) · [LinkedIn](https://www.linkedin.com/in/mateo-andres-soto-gareca/) · mateoandres2208@gmail.com
 
 ---
 
-## `>` Who I am
+### What I've built
 
-I'm **Mateo Soto**, a **Systems Engineering student** (*Ingeniería en Sistemas*) at **UPSA — Universidad Privada de Santa Cruz de la Sierra**, in Santa Cruz, Bolivia 🇧🇴.
+**[MCP Packet Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)** · [mcpnetwork.top](https://www.mcpnetwork.top/) &nbsp;![stars](https://img.shields.io/github/stars/Mats2208/MCP-Packet-Tracer?style=flat-square&label=%E2%98%85&labelColor=0B0B0C&color=FF2D2D)<br/>
+Describe a network in plain language and it is designed, checked and wired inside Cisco Packet Tracer while you watch. 61 tools, 74 device models, live deploy. Network engineers made videos about it: [Simone Spinedi](https://www.youtube.com/watch?v=daJhmwXAKEI) (ABN AMRO Clearing Bank) and [Ryan's Routing Table](https://www.youtube.com/watch?v=_dhgNZWzLPA).<br/>
+<sub>`Python` `MCP` `Pydantic`</sub>
 
-I build software where an **LLM is one component inside a larger system** — agent orchestrators, **MCP** servers, things with real process boundaries and git-worktree isolation. The part I enjoy is the **systems design**, not the prompt. I ship open source that people use — my MCP server for Cisco Packet Tracer is past **240 ⭐**, and network engineers have recorded YouTube walkthroughs of it — and I go deep enough to understand *why* it works, not just that it does.
+**Dólar Blue Bolivia**<br/>
+The real exchange rate in Bolivia, from twelve sources every minute. First result on Google for "dolar blue bolivia", 1.8M page views a month on average, a public API other sites build on, and sponsors since 2025. I built it and I run it alone.<br/>
+<sub>`Astro` `Python` `React Native` `Tailwind`</sub>
 
-```yaml
-mateo:
-  role:     Full-Stack & AI-systems developer
-  study:    Ingeniería en Sistemas @ UPSA
-  based:    Santa Cruz de la Sierra, Bolivia
-  building: agent orchestration · MCP tooling · developer tools
-  mindset:  "understand the machine, then automate it"
-  open_to:  internships · junior/mid roles · AI-systems work
-```
+**[packetsmith](https://github.com/Mats2208/packetsmith)** · [npm](https://www.npmjs.com/package/packetsmith)<br/>
+The terminal client for MCP Packet Tracer: the topology draws itself beside the conversation, from real tool results, so it can't show a device the model only claims it made.<br/>
+<sub>`TypeScript` `Bun` `OpenTUI`</sub>
 
----
+**[hyprdesk](https://github.com/HyprDesk/hyprdesk)** · [site](https://hyprdesk.github.io/hyprdesk/)<br/>
+One agent plans, the rest build in parallel, each on its own git worktree, on your own machine. Four workers built its landing page in 75 minutes.<br/>
+<sub>`Rust` `Tauri v2` `React`</sub>
 
-## `>` Focus areas
+**Sociedad Cruceña de Pediatría** · [scpediatria.com](https://scpediatria.com)<br/>
+The public site of a medical society founded in 1965, and the panel its office uses to publish events without touching code. In production.<br/>
+<sub>`.NET` `PostgreSQL` `Astro`</sub>
 
-- 🤖 **AI agent orchestration** — multi-agent systems, brain/router → worker CLIs, git-worktree isolation, A2A
-- 🔌 **MCP tooling** — Model Context Protocol servers that let LLMs drive real software
-- 🧩 **Full-stack product engineering** — Astro/React frontends, FastAPI · Flask · .NET backends
-- 🖥️ **Native & systems** — Tauri desktop apps, SwiftUI (macOS), CLIs and low-level tinkering
-
----
-
-## `>` Featured
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[MCP-Packet-Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)** [![stars](https://img.shields.io/github/stars/Mats2208/MCP-Packet-Tracer?style=flat-square&label=&logo=github&logoColor=B3DED2&labelColor=1F2228&color=375A56)](https://github.com/Mats2208/MCP-Packet-Tracer/stargazers) · [live](https://www.mcpnetwork.top/) | Cisco Packet Tracer driven over **MCP** — describe a network in plain language, it generates, validates and deploys the topology (OSPF, EIGRP, RIP, DHCP). 61 tools, 74 device models | `Python · MCP` |
-| **[packetsmith](https://github.com/Mats2208/packetsmith)** · [npm](https://www.npmjs.com/package/packetsmith) | The terminal client for the server above — split-screen TUI where the topology draws itself beside the conversation, derived from real tool results so it cannot show a device the model only *claims* it created | `TypeScript · Bun · OpenTUI` |
-| **[hyprdesk](https://github.com/HyprDesk/hyprdesk)** · [live](https://hyprdesk.github.io/hyprdesk/) | A router agent leads a team of AI coding workers over a local **A2A/MCP tunnel**, each on an isolated git worktree, with merge-back | `Rust · Tauri v2 · React` |
-| **[ScanToSketchUp](https://github.com/Mats2208/ScanToSketchUp)** | iPhone LiDAR scan → real editable geometry in SketchUp. Open `.scanpkg` format, self-hostable backend | `Swift · Python` |
-| **[Audio-Transcriber-STT](https://github.com/Mats2208/Audio-Transcriber-STT)** | Local-first desktop app: audio/video/YouTube → transcript, AI notes & Q&A on your own GPU | `Python · faster-whisper` |
-| **[FESTCINE](https://github.com/Mats2208/FESTCINE)** | Cinema-festival platform where the **business logic lives in the database** — stored procedures, triggers, transactions | `SQL Server · FastAPI · React` |
-| **[DownloadYoutubeTool](https://github.com/Mats2208/DownloadYoutubeTool)** | Native macOS app, 4K downloads with automatic stream merge | `Swift · SwiftUI` |
-
-<sub>↓ More in my repos — [ao](https://github.com/Mats2208/ao) (agent orchestrator), [IFTP](https://github.com/Mats2208/IFTP) (IoT soil monitoring), [DeriBot](https://github.com/Mats2208/DERIBOT) (symbolic calculus tutor), [EDOLab](https://github.com/Mats2208/EDO-FRONTEND), [TTOCA](https://github.com/Mats2208/TTOCA-BACKEND).</sub>
+<sub>More: [ScanToSketchUp](https://github.com/Mats2208/ScanToSketchUp) (iPhone LiDAR to SketchUp) · [Audio-Transcriber-STT](https://github.com/Mats2208/Audio-Transcriber-STT) (local transcription on your GPU) · [FESTCINE](https://github.com/Mats2208/FESTCINE) (business logic in SQL Server) · [DownloadYoutubeTool](https://github.com/Mats2208/DownloadYoutubeTool) (native macOS) · an accepted [pull request to lian-li-linux](https://github.com/sgtaziz/lian-li-linux/pull/152) (+1,191 lines).</sub>
 
 ---
 
-## `>` Tech stack
+### Tools I ship with
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-1F2228?style=for-the-badge&logo=python&logoColor=B3DED2)
-![TypeScript](https://img.shields.io/badge/TypeScript-1F2228?style=for-the-badge&logo=typescript&logoColor=B3DED2)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2228?style=for-the-badge&logo=javascript&logoColor=B3DED2)
-![C#](https://img.shields.io/badge/C%23-1F2228?style=for-the-badge&logo=dotnet&logoColor=B3DED2)
-![Swift](https://img.shields.io/badge/Swift-1F2228?style=for-the-badge&logo=swift&logoColor=B3DED2)
-![Rust](https://img.shields.io/badge/Rust-1F2228?style=for-the-badge&logo=rust&logoColor=B3DED2)
-![C++](https://img.shields.io/badge/C++-1F2228?style=for-the-badge&logo=cplusplus&logoColor=B3DED2)
+**Languages** · Python · TypeScript · C# · Swift · Rust · SQL<br/>
+**Frameworks** · Astro · React · FastAPI · .NET · Tauri · SwiftUI<br/>
+**Data and ops** · PostgreSQL · SQL Server · Docker · Linux · nginx · Git
 
-**Frameworks & Runtime**
-<br/>
-![React](https://img.shields.io/badge/React-1F2228?style=for-the-badge&logo=react&logoColor=B3DED2)
-![Astro](https://img.shields.io/badge/Astro-1F2228?style=for-the-badge&logo=astro&logoColor=B3DED2)
-![FastAPI](https://img.shields.io/badge/FastAPI-1F2228?style=for-the-badge&logo=fastapi&logoColor=B3DED2)
-![Flask](https://img.shields.io/badge/Flask-1F2228?style=for-the-badge&logo=flask&logoColor=B3DED2)
-![.NET](https://img.shields.io/badge/.NET-1F2228?style=for-the-badge&logo=dotnet&logoColor=B3DED2)
-![Tauri](https://img.shields.io/badge/Tauri-1F2228?style=for-the-badge&logo=tauri&logoColor=B3DED2)
-![Node.js](https://img.shields.io/badge/Node.js-1F2228?style=for-the-badge&logo=nodedotjs&logoColor=B3DED2)
-
-**Data & Tools**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2228?style=for-the-badge&logo=postgresql&logoColor=B3DED2)
-![SQLite](https://img.shields.io/badge/SQLite-1F2228?style=for-the-badge&logo=sqlite&logoColor=B3DED2)
-![SQL Server](https://img.shields.io/badge/SQL_Server-1F2228?style=for-the-badge&logo=microsoftsqlserver&logoColor=B3DED2)
-![Git](https://img.shields.io/badge/Git-1F2228?style=for-the-badge&logo=git&logoColor=B3DED2)
-![Docker](https://img.shields.io/badge/Docker-1F2228?style=for-the-badge&logo=docker&logoColor=B3DED2)
-![Linux](https://img.shields.io/badge/Linux-1F2228?style=for-the-badge&logo=linux&logoColor=B3DED2)
-
----
-
-## `>` Education
-
-| Institution | Program |
-|---|---|
-| **UPSA** — Universidad Privada de Santa Cruz de la Sierra | Ingeniería en Sistemas *(Systems Engineering)* |
-
----
-
-## `>` GitHub
-
-<div align="center">
-
-<img width="49%" alt="Commits, stars, pull requests and issues" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mats2208&theme=react" />
-<img width="49%" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mats2208&theme=react" />
-
-<br/><br/>
-
-<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mats2208&bg_color=1F2228&color=B3DED2&line=375A56&point=B3DED2&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-**Open to opportunities** — [matsoto.dev](https://matsoto.dev) · [LinkedIn](https://www.linkedin.com/in/mateo-andres-soto-gareca-85301b323) · **mateoandres2208@gmail.com**
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:B3DED2,50:375A56,100:1F2228" />
-
-</div>
+<sub>Every name here is one I've shipped something with.</sub>
