@@ -6,28 +6,55 @@
   </picture>
 </a>
 
-I'm **Mateo Soto Gareca**, a software developer in Santa Cruz, Bolivia, studying Systems Engineering at UPSA.
-
-I build and run websites, APIs, and developer tools.
+**I'm Mateo Soto Gareca, a software developer in Santa Cruz, Bolivia.** I study Systems Engineering at UPSA and build websites, APIs, and tools. I keep them running, too. I deploy them, fix what breaks, and write down what happened.
 
 **Open to internships and junior roles.** [Portfolio](https://matsoto.dev) · [LinkedIn](https://www.linkedin.com/in/mateo-andres-soto-gareca/) · [Email](mailto:mateoandres2208@gmail.com)
 
-[![Mats2208 on GitRanks: profile](https://gitranks.com/badge/user/Mats2208/profile-card.svg)](https://gitranks.com/profile/Mats2208)
+## What I've built
 
-[![GitHub profile views](https://komarev.com/ghpvc/?username=Mats2208&label=Profile+views&color=375A56&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
+<p align="center">
+  <a href="https://matsoto.dev/work/mcp-packet-tracer"><img src="https://matsoto.dev/assets/projects/mcp-packet-tracer/topology.webp" alt="Cisco Packet Tracer topology with routers, switches and end devices deployed by MCP Packet Tracer" width="46.25%" /></a>
+  <a href="https://matsoto.dev/work/dolar-blue-bolivia"><img src="https://matsoto.dev/assets/projects/dolar-blue-bolivia/screenshot.webp" alt="Dólar Blue Bolivia dashboard showing the parallel and official exchange rates" width="48%" /></a>
+</p>
 
-## Selected projects
+### [MCP Packet Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)
 
-- **[MCP Packet Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)** · Designs, validates, and deploys Cisco Packet Tracer networks from plain language. [Site](https://www.mcpnetwork.top/) · [Simone Spinedi's demo](https://www.youtube.com/watch?v=daJhmwXAKEI) · [Ryan's Routing Table demo](https://www.youtube.com/watch?v=_dhgNZWzLPA)
-- **[Dólar Blue Bolivia](https://www.dolarbluebolivia.click)** · I build and run this exchange-rate tracker and public API. The site averaged 1.8M monthly page views from September 2025 to August 2026.
-- **[PacketSmith](https://github.com/Mats2208/packetsmith)** · A terminal client that draws the network topology as MCP Packet Tracer builds it. [npm](https://www.npmjs.com/package/packetsmith)
-- **[HyprDesk](https://github.com/HyprDesk/hyprdesk)** · Runs coding agents in parallel on your machine, each in its own Git worktree. [Site](https://hyprdesk.github.io/hyprdesk/)
-- **[Sociedad Cruceña de Pediatría](https://scpediatria.com)** · A public website and admin panel the society uses to publish events.
+Describe a network in plain language and watch it get designed, validated, and wired inside Cisco Packet Tracer. Network engineers [Simone Spinedi](https://www.youtube.com/watch?v=daJhmwXAKEI) and [Ryan's Routing Table](https://www.youtube.com/watch?v=_dhgNZWzLPA) made videos showing it in action.
 
-More work · [ScanToSketchUp](https://github.com/Mats2208/ScanToSketchUp) · [Audio Transcriber STT](https://github.com/Mats2208/Audio-Transcriber-STT) · [FESTCINE](https://github.com/Mats2208/FESTCINE) · [DownloadYoutubeTool](https://github.com/Mats2208/DownloadYoutubeTool) · [lian-li-linux contribution](https://github.com/sgtaziz/lian-li-linux/pull/152)
+[![MCP Packet Tracer stars on GitHub](https://img.shields.io/github/stars/Mats2208/MCP-Packet-Tracer?style=flat-square&label=GitHub%20stars&labelColor=0B0B0C&color=FF2D2D)](https://github.com/Mats2208/MCP-Packet-Tracer/stargazers) · [Project site](https://www.mcpnetwork.top/) · [Case study](https://matsoto.dev/work/mcp-packet-tracer)
 
-## Tools
+### [Dólar Blue Bolivia](https://www.dolarbluebolivia.click)
 
-Python · TypeScript · C# · Swift · Rust · SQL<br/>
-Astro · React · FastAPI · .NET · Tauri · SwiftUI<br/>
-PostgreSQL · SQL Server · Docker · Linux · nginx · Git
+I built and run Bolivia's parallel exchange-rate tracker. It pulls from 12 sources every minute and serves a public API that other sites use. The site averaged **1.8M monthly page views** from September 2025 to August 2026.
+
+[Live site](https://www.dolarbluebolivia.click) · [Case study and traffic data](https://matsoto.dev/work/dolar-blue-bolivia)
+
+### More projects
+
+**[PacketSmith](https://github.com/Mats2208/packetsmith)** · A terminal client for MCP Packet Tracer. It draws the topology beside the conversation using the results returned by Packet Tracer. [npm](https://www.npmjs.com/package/packetsmith)
+
+**[HyprDesk](https://github.com/HyprDesk/hyprdesk)** · One agent plans while the others work in parallel, each in its own Git worktree on your machine. Four workers built its landing page in 75 minutes. [Project site](https://hyprdesk.github.io/hyprdesk/)
+
+**[Sociedad Cruceña de Pediatría](https://scpediatria.com)** · I built the society's public website and the admin panel its staff uses to publish events without touching code. In production with Astro, .NET, and PostgreSQL.
+
+<details>
+<summary>More work and tools I ship with</summary>
+
+- [ScanToSketchUp](https://github.com/Mats2208/ScanToSketchUp) · iPhone LiDAR scans in SketchUp.
+- [Audio Transcriber STT](https://github.com/Mats2208/Audio-Transcriber-STT) · Local transcription on your GPU.
+- [FESTCINE](https://github.com/Mats2208/FESTCINE) · Festival management logic in SQL Server.
+- [DownloadYoutubeTool](https://github.com/Mats2208/DownloadYoutubeTool) · Native macOS app.
+- [lian-li-linux](https://github.com/sgtaziz/lian-li-linux/pull/152) · Merged contribution to an open-source Linux fan and RGB controller.
+
+**Languages** · Python · TypeScript · C# · Swift · Rust · SQL<br/>
+**Frameworks** · Astro · React · FastAPI · .NET · Tauri · SwiftUI<br/>
+**Data and ops** · PostgreSQL · SQL Server · Docker · Linux · nginx · Git
+
+</details>
+
+<h2 align="center">GitHub activity</h2>
+
+<p align="center">
+  <a href="https://gitranks.com/profile/Mats2208"><img src="https://gitranks.com/badge/user/Mats2208/profile-card.svg" alt="Mats2208 on GitRanks" width="400" /></a><br />
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Mats2208&amp;label=Profile+views&amp;color=FF2D2D&amp;style=flat-square" alt="GitHub profile views" /></a>
+</p>
