@@ -13,8 +13,8 @@
 ## What I've built
 
 <p align="center">
-  <a href="https://matsoto.dev/work/mcp-packet-tracer"><img src="https://matsoto.dev/assets/projects/mcp-packet-tracer/topology.webp" alt="Cisco Packet Tracer topology with routers, switches and end devices deployed by MCP Packet Tracer" width="46.25%" /></a>
-  <a href="https://matsoto.dev/work/dolar-blue-bolivia"><img src="https://matsoto.dev/assets/projects/dolar-blue-bolivia/screenshot.webp" alt="Dólar Blue Bolivia dashboard showing the parallel and official exchange rates" width="48%" /></a>
+  <a href="https://matsoto.dev/work/mcp-packet-tracer"><img src="https://matsoto.dev/og/mcp-packet-tracer-en.jpg" alt="MCP Packet Tracer project cover with a network topology in the background" width="48%" /></a>
+  <a href="https://matsoto.dev/work/dolar-blue-bolivia"><img src="https://matsoto.dev/og/dolar-blue-bolivia-en.jpg" alt="Dólar Blue Bolivia project cover featuring the exchange-rate dashboard" width="48%" /></a>
 </p>
 
 ### [MCP Packet Tracer](https://github.com/Mats2208/MCP-Packet-Tracer)
@@ -57,4 +57,8 @@ I built and run Bolivia's parallel exchange-rate tracker. It pulls from 12 sourc
 <p align="center">
   <a href="https://gitranks.com/profile/Mats2208"><img src="https://gitranks.com/badge/user/Mats2208/profile-card.svg" alt="Mats2208 on GitRanks" width="400" /></a><br />
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Mats2208&amp;label=Profile+views&amp;color=FF2D2D&amp;style=flat-square" alt="GitHub profile views" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mats2208?tab=overview"><img src="assets/commit-activity.svg" alt="Monthly public commits in my repositories and in community and organization repositories" width="520" /></a>
 </p>

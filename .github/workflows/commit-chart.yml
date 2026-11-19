@@ -1,0 +1,34 @@
+name: Update commit activity chart
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 12 * * 1'
+
+permissions:
+  contents: write
+
+concurrency: commit-chart
+
+jobs:
+  update:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Render chart
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/update-commit-chart.py
+      - name: Publish chart
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if git diff --quiet -- assets/commit-activity.svg; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/commit-activity.svg
+          git commit -m 'Update public commit activity chart'
+          git push origin "HEAD:$DEFAULT_BRANCH"

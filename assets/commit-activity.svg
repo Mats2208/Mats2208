@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="254" viewBox="0 0 520 254" role="img" aria-labelledby="title description">
+  <title id="title">Public commit activity</title>
+  <desc id="description">Dec 2025 – Nov 2026. 595 commits in own repositories and 195 in community and organization repositories.</desc>
+  <style>
+    .card {fill:#fff;stroke:#d0d7de}
+    text {font-family:system-ui,-apple-system,sans-serif;fill:#1f2328}
+    .heading {font-size:21px;font-weight:700}
+    .muted,.axis {fill:#59636e}
+    .muted,.legend {font-size:15px}
+    .axis {font-size:13px}
+    .total {font-size:20px;font-weight:700}
+    .grid {stroke:#d8dee4;stroke-width:1}
+    .own {fill:#cf222e}
+    .other {fill:#0969da}
+    @media(prefers-color-scheme:dark) {
+      .card {fill:#161b22;stroke:#30363d}
+      text {fill:#f0f6fc}
+      .muted,.axis {fill:#b1bac4}
+      .grid {stroke:#30363d}
+      .own {fill:#ff5c5c}
+      .other {fill:#58a6ff}
+    }
+  </style>
+  <rect class="card" x=".5" y=".5" width="519" height="253" rx="12"/>
+  <text class="heading" x="21" y="31">Public commit activity</text>
+  <text class="muted" x="21" y="54">Dec 2025 – Nov 2026 · GitHub</text>
+  <rect class="own" x="21" y="79" width="10" height="10" rx="2"/>
+  <text class="legend" x="39" y="89"><tspan class="total">595</tspan> commits · own repos</text>
+  <rect class="other" x="250" y="79" width="10" height="10" rx="2"/>
+  <text class="legend" x="268" y="89"><tspan class="total">195</tspan> commits · community &amp; orgs</text>
+  <path class="grid" d="M55 215H501"/><text class="axis" x="46" y="219" text-anchor="end">0</text><path class="grid" d="M55 183H501"/><text class="axis" x="46" y="187" text-anchor="end">100</text><path class="grid" d="M55 151H501"/><text class="axis" x="46" y="155" text-anchor="end">200</text><path class="grid" d="M55 119H501"/><text class="axis" x="46" y="123" text-anchor="end">300</text>
+          <g>
+            <title>Dec 2025 · Own repos 13 · Other repos 11</title>
+            <rect class="own" x="69" y="210.84" width="22" height="4.16"/>
+            <rect class="other" x="69" y="207.32" width="22" height="3.52"/>
+          </g>
+          <text class="axis" x="80" y="237" text-anchor="middle">Dec</text>
+          <g>
+            <title>Jan 2026 · Own repos 0 · Other repos 2</title>
+            <rect class="own" x="105" y="215.00" width="22" height="0.00"/>
+            <rect class="other" x="105" y="214.36" width="22" height="0.64"/>
+          </g>
+          <text class="axis" x="116" y="237" text-anchor="middle">Jan</text>
+          <g>
+            <title>Feb 2026 · Own repos 4 · Other repos 0</title>
+            <rect class="own" x="141" y="213.72" width="22" height="1.28"/>
+            <rect class="other" x="141" y="213.72" width="22" height="0.00"/>
+          </g>
+          <text class="axis" x="152" y="237" text-anchor="middle">Feb</text>
+          <g>
+            <title>Mar 2026 · Own repos 12 · Other repos 0</title>
+            <rect class="own" x="177" y="211.16" width="22" height="3.84"/>
+            <rect class="other" x="177" y="211.16" width="22" height="0.00"/>
+          </g>
+          <text class="axis" x="188" y="237" text-anchor="middle">Mar</text>
+          <g>
+            <title>Apr 2026 · Own repos 6 · Other repos 0</title>
+            <rect class="own" x="213" y="213.08" width="22" height="1.92"/>
+            <rect class="other" x="213" y="213.08" width="22" height="0.00"/>
+          </g>
+          <text class="axis" x="224" y="237" text-anchor="middle">Apr</text>
+          <g>
+            <title>May 2026 · Own repos 10 · Other repos 0</title>
+            <rect class="own" x="249" y="211.80" width="22" height="3.20"/>
+            <rect class="other" x="249" y="211.80" width="22" height="0.00"/>
+          </g>
+          <text class="axis" x="260" y="237" text-anchor="middle">May</text>
+          <g>
+            <title>Jun 2026 · Own repos 14 · Other repos 0</title>
+            <rect class="own" x="285" y="210.52" width="22" height="4.48"/>
+            <rect class="other" x="285" y="210.52" width="22" height="0.00"/>
+          </g>
+          <text class="axis" x="296" y="237" text-anchor="middle">Jun</text>
+          <g>
+            <title>Jul 2026 · Own repos 62 · Other repos 134</title>
+            <rect class="own" x="321" y="195.16" width="22" height="19.84"/>
+            <rect class="other" x="321" y="152.28" width="22" height="42.88"/>
+          </g>
+          <text class="axis" x="332" y="237" text-anchor="middle">Jul</text>
+          <g>
+            <title>Aug 2026 · Own repos 164 · Other repos 8</title>
+            <rect class="own" x="357" y="162.52" width="22" height="52.48"/>
+            <rect class="other" x="357" y="159.96" width="22" height="2.56"/>
+          </g>
+          <text class="axis" x="368" y="237" text-anchor="middle">Aug</text>
+          <g>
+            <title>Sep 2026 · Own repos 6 · Other repos 7</title>
+            <rect class="own" x="393" y="213.08" width="22" height="1.92"/>
+            <rect class="other" x="393" y="210.84" width="22" height="2.24"/>
+          </g>
+          <text class="axis" x="404" y="237" text-anchor="middle">Sep</text>
+          <g>
+            <title>Oct 2026 · Own repos 271 · Other repos 5</title>
+            <rect class="own" x="429" y="128.28" width="22" height="86.72"/>
+            <rect class="other" x="429" y="126.68" width="22" height="1.60"/>
+          </g>
+          <text class="axis" x="440" y="237" text-anchor="middle">Oct</text>
+          <g>
+            <title>Nov 2026 · Own repos 33 · Other repos 28</title>
+            <rect class="own" x="465" y="204.44" width="22" height="10.56"/>
+            <rect class="other" x="465" y="195.48" width="22" height="8.96"/>
+          </g>
+          <text class="axis" x="476" y="237" text-anchor="middle">Nov</text>
+</svg>
