@@ -62,13 +62,13 @@
 
 **Stack** · Python · TypeScript · C# · Swift · Rust · SQL · Astro · React · FastAPI · .NET · Tauri · PostgreSQL · Docker · Linux
 
-<h2 align="center">GitHub activity</h2>
+## GitHub activity
 
 <p align="center">
-  <a href="https://gitranks.com/profile/Mats2208"><img src="https://gitranks.com/badge/user/Mats2208/profile-card.svg" alt="Mats2208 on GitRanks" width="400" /></a><br />
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Mats2208&amp;label=Profile+views&amp;color=FF2D2D&amp;style=flat-square" alt="GitHub profile views" /></a>
+  <a href="https://gitranks.com/profile/Mats2208"><img src="https://gitranks.com/badge/user/Mats2208/profile-card.svg" alt="Mats2208 on GitRanks: rank by stars, contributions, country and Python" width="49%" /></a>
+  <a href="https://github.com/Mats2208?tab=overview"><img src="assets/commit-activity.svg" alt="Monthly public commits in my repositories and in community and organization repositories" width="49%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mats2208?tab=overview"><img src="assets/commit-activity.svg" alt="Monthly public commits in my repositories and in community and organization repositories" width="520" /></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Mats2208&amp;label=Profile+views&amp;color=FF2D2D&amp;style=flat-square" alt="GitHub profile views" /></a>
 </p>
