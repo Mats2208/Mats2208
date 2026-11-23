@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140" role="img" aria-labelledby="title description">
   <title id="title">Public commit activity</title>
-  <desc id="description">Dec 2025 – Nov 2026. 590 commits in own repositories and 195 in community and organization repositories.</desc>
+  <desc id="description">Dec 2025 – Nov 2026. 591 commits in own repositories and 195 in community and organization repositories.</desc>
   <style>
     .card {fill:#fff;stroke:#d0d7de}
     text {font-family:system-ui,-apple-system,sans-serif;fill:#1f2328}
@@ -24,7 +24,7 @@
   <rect class="card" x=".5" y=".5" width="399" height="139" rx="10"/>
   <text class="label" x="16" y="26">PUBLIC COMMITS</text>
   <text class="label" x="384" y="26" text-anchor="end">DEC 2025 – NOV 2026</text>
-  <text class="total" x="16" y="62">590</text>
+  <text class="total" x="16" y="62">591</text>
   <rect class="own" x="16" y="70" width="8" height="8" rx="2"/>
   <text class="muted" x="29" y="78">own repos</text>
   <text class="total" x="16" y="106">195</text>
@@ -98,9 +98,9 @@
   </g>
   <text class="axis" x="354.75" y="127" text-anchor="middle">O</text>
   <g>
-    <title>Nov 2026 · Own repos 38 · Other repos 28</title>
-    <rect class="own" x="368.25" y="103.19" width="12" height="8.81"/>
-    <rect class="other" x="368.25" y="96.70" width="12" height="6.49"/>
+    <title>Nov 2026 · Own repos 39 · Other repos 28</title>
+    <rect class="own" x="368.25" y="102.96" width="12" height="9.04"/>
+    <rect class="other" x="368.25" y="96.46" width="12" height="6.49"/>
   </g>
   <text class="axis" x="374.25" y="127" text-anchor="middle">N</text>
 </svg>
