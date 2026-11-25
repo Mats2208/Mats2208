@@ -70,5 +70,14 @@
 </p>
 
 <p align="center">
+  <a href="https://gitranks.com/profile/Mats2208">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/Mats2208/count-chart.svg?theme=dark">
+      <img src="https://gitranks.com/badge/user/Mats2208/count-chart.svg?theme=light" alt="Mats2208 on GitRanks: last 24 months" width="98%">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Mats2208&amp;label=Profile+views&amp;color=FF2D2D&amp;style=flat-square" alt="GitHub profile views" /></a>
 </p>
